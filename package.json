@@ -10,11 +10,11 @@
     "dev-test": "jest --watch",
     "lint": "eslint src"
   },
-  "author": "Kiran Abburi",
+  "author": "Ryota Murakami",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akiran/react-slick"
+    "url": "https://github.com/ryota-murakami/react-slick"
   },
   "keywords": [
     "slick",
@@ -90,8 +90,5 @@
       ]
     }
   ],
-  "bugs": {
-    "url": "https://github.com/akiran/react-slick/issues"
-  },
-  "homepage": "https://github.com/akiran/react-slick"
+  "homepage": "https://github.com/ryota-murakami/react-slick"
 }
