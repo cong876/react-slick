@@ -1,11 +1,10 @@
+# circumstance of fork
+following my PR is ignored, because i started personaly maintenance.
+https://github.com/akiran/react-slick/pull/758
+
 # react-slick
 
-[![Join the chat at https://gitter.im/akiran/react-slick](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/akiran/react-slick?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-
 Carousel component built with React. It is a react port of [slick carousel](http://kenwheeler.github.io/slick/)
-
-
 
 ### Installation
 
