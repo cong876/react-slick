@@ -1,4 +1,7 @@
 # circumstance of fork
+fork from ryota-murakami as the same issuse
+
+# circumstance of fork
 following my PR is ignored, because i started personaly maintenance.
 https://github.com/akiran/react-slick/pull/758
 

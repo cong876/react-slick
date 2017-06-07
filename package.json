@@ -1,5 +1,5 @@
 {
-  "name": "react-slick",
+  "name": "react-slick-cong",
   "version": "0.14.11",
   "description": " React port of slick carousel",
   "main": "./lib",
@@ -10,11 +10,11 @@
     "dev-test": "jest --watch",
     "lint": "eslint src"
   },
-  "author": "Ryota Murakami",
+  "author": "cong876",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryota-murakami/react-slick"
+    "url": "https://github.com/cong876/react-slick"
   },
   "keywords": [
     "slick",
@@ -90,5 +90,5 @@
       ]
     }
   ],
-  "homepage": "https://github.com/ryota-murakami/react-slick"
+  "homepage": "https://github.com/cong876/react-slick"
 }
